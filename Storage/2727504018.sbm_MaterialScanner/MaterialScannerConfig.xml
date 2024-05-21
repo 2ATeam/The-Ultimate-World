@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Configuration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>2.0.34.46</Version>
+  <Logging>false</Logging>
+  <MinimumRange>0.05</MinimumRange>
+  <MaximumRange>0.5</MaximumRange>
+  <SmallGridRangeFactor>0.35</SmallGridRangeFactor>
+  <BeamWidth>0</BeamWidth>
+  <MinimumDetectionProbability>0.65</MinimumDetectionProbability>
+  <MaximumDetectionprobability>0.99</MaximumDetectionprobability>
+  <NormalPowerUsage>0.75</NormalPowerUsage>
+  <WorkPowerUsage>75</WorkPowerUsage>
+  <SmallGridPowerFactor>0.25</SmallGridPowerFactor>
+  <WorkDuration>15</WorkDuration>
+  <CooldownDuration>35</CooldownDuration>
+  <AnalysisSpeed>1</AnalysisSpeed>
+  <ComponentSelectionRows>9</ComponentSelectionRows>
+  <DetectableComponents>
+    <Component>
+      <Name>AdminOnlyComponent</Name>
+      <ItemSubtype>AdminPlate</ItemSubtype>
+      <RequiredBandwidth>5</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>DisplayName_AiE_Comp_CombatBotMaterial</Name>
+      <ItemSubtype>AiEnabled_Comp_CombatBotMaterial</ItemSubtype>
+      <RequiredBandwidth>5</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>DisplayName_AiE_Comp_CrewBotMaterial</Name>
+      <ItemSubtype>AiEnabled_Comp_CrewBotMaterial</ItemSubtype>
+      <RequiredBandwidth>5</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>DisplayName_AiE_Comp_RepairBotMaterial</Name>
+      <ItemSubtype>AiEnabled_Comp_RepairBotMaterial</ItemSubtype>
+      <RequiredBandwidth>5</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>DisplayName_AiE_Comp_ScavengerBotMaterial</Name>
+      <ItemSubtype>AiEnabled_Comp_ScavengerBotMaterial</ItemSubtype>
+      <RequiredBandwidth>5</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>DisplayName_AQD_Comp_Concrete</Name>
+      <ItemSubtype>AQD_Comp_Concrete</ItemSubtype>
+      <RequiredBandwidth>5</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>DisplayName_AQD_Tech_UTIL_G1</Name>
+      <ItemSubtype>AQD_Tech_UTIL_G1</ItemSubtype>
+      <RequiredBandwidth>5</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>DisplayName_AQD_Tech_UTIL_G2</Name>
+      <ItemSubtype>AQD_Tech_UTIL_G2</ItemSubtype>
+      <RequiredBandwidth>5</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Bulletproof Glass</Name>
+      <ItemSubtype>BulletproofGlass</ItemSubtype>
+      <RequiredBandwidth>2</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Canvas</Name>
+      <ItemSubtype>Canvas</ItemSubtype>
+      <RequiredBandwidth>0</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>ASSERT Large Atmospheric Thruster</Name>
+      <ItemSubtype>ComponentSmallBlockLargeAtmosphericThrustAssert</ItemSubtype>
+      <RequiredBandwidth>5</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>ASSERT Large Flat Atmospheric Thruster</Name>
+      <ItemSubtype>ComponentSmallBlockLargeFlatAtmosphericThrustAssert</ItemSubtype>
+      <RequiredBandwidth>5</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>ASSERT Large Hydrogen Thruster</Name>
+      <ItemSubtype>ComponentSmallBlockLargeHydrogenThrustAssert</ItemSubtype>
+      <RequiredBandwidth>5</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>ASSERT Large Ion Thruster</Name>
+      <ItemSubtype>ComponentSmallBlockLargeThrustAssert</ItemSubtype>
+      <RequiredBandwidth>5</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>ASSERT Atmospheric Thruster</Name>
+      <ItemSubtype>ComponentSmallBlockSmallAtmosphericThrustAssert</ItemSubtype>
+      <RequiredBandwidth>5</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>ASSERT Flat Atmospheric Thruster</Name>
+      <ItemSubtype>ComponentSmallBlockSmallFlatAtmosphericThrustAssert</ItemSubtype>
+      <RequiredBandwidth>5</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>ASSERT Hydrogen Thruster</Name>
+      <ItemSubtype>ComponentSmallBlockSmallHydrogenThrustAssert</ItemSubtype>
+      <RequiredBandwidth>5</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>ASSERT Ion Thruster</Name>
+      <ItemSubtype>ComponentSmallBlockSmallThrustAssert</ItemSubtype>
+      <RequiredBandwidth>5</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Compressor</Name>
+      <ItemSubtype>CompressorAssert</ItemSubtype>
+      <RequiredBandwidth>5</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Computer</Name>
+      <ItemSubtype>Computer</ItemSubtype>
+      <RequiredBandwidth>2</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Construction Comp.</Name>
+      <ItemSubtype>Construction</ItemSubtype>
+      <RequiredBandwidth>2</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Detector Comp.</Name>
+      <ItemSubtype>Detector</ItemSubtype>
+      <RequiredBandwidth>2</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Display</Name>
+      <ItemSubtype>Display</ItemSubtype>
+      <RequiredBandwidth>2</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Engineer Plushie</Name>
+      <ItemSubtype>EngineerPlushie</ItemSubtype>
+      <RequiredBandwidth>0</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Enriched Uranium Core</Name>
+      <ItemSubtype>EnrichedUraniumCore</ItemSubtype>
+      <RequiredBandwidth>5</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Explosives</Name>
+      <ItemSubtype>Explosives</ItemSubtype>
+      <RequiredBandwidth>3</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Girder</Name>
+      <ItemSubtype>Girder</ItemSubtype>
+      <RequiredBandwidth>2</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Gravity Comp.</Name>
+      <ItemSubtype>GravityGenerator</ItemSubtype>
+      <RequiredBandwidth>4</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Inhibitor Chip</Name>
+      <ItemSubtype>InhibitorChip</ItemSubtype>
+      <RequiredBandwidth>5</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Interior Plate</Name>
+      <ItemSubtype>InteriorPlate</ItemSubtype>
+      <RequiredBandwidth>2</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Large Steel Tube</Name>
+      <ItemSubtype>LargeTube</ItemSubtype>
+      <RequiredBandwidth>2</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Medical Comp.</Name>
+      <ItemSubtype>Medical</ItemSubtype>
+      <RequiredBandwidth>4</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Proprietary Thrust Component</Name>
+      <ItemSubtype>MESThrust</ItemSubtype>
+      <RequiredBandwidth>5</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Metal Grid</Name>
+      <ItemSubtype>MetalGrid</ItemSubtype>
+      <RequiredBandwidth>3</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Motor</Name>
+      <ItemSubtype>Motor</ItemSubtype>
+      <RequiredBandwidth>3</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Power Cell</Name>
+      <ItemSubtype>PowerCell</ItemSubtype>
+      <RequiredBandwidth>3</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Proprietary Circuits</Name>
+      <ItemSubtype>ProprietaryTech</ItemSubtype>
+      <RequiredBandwidth>5</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Radio-comm Comp.</Name>
+      <ItemSubtype>RadioCommunication</ItemSubtype>
+      <RequiredBandwidth>2</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Reactor Comp.</Name>
+      <ItemSubtype>Reactor</ItemSubtype>
+      <RequiredBandwidth>3</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Saberoid Plushie</Name>
+      <ItemSubtype>SabiroidPlushie</ItemSubtype>
+      <RequiredBandwidth>0</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Small Steel Tube</Name>
+      <ItemSubtype>SmallTube</ItemSubtype>
+      <RequiredBandwidth>2</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Solar Cell</Name>
+      <ItemSubtype>SolarCell</ItemSubtype>
+      <RequiredBandwidth>3</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Steel Plate</Name>
+      <ItemSubtype>SteelPlate</ItemSubtype>
+      <RequiredBandwidth>1</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Superconductor</Name>
+      <ItemSubtype>Superconductor</ItemSubtype>
+      <RequiredBandwidth>4</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Thruster Comp.</Name>
+      <ItemSubtype>Thrust</ItemSubtype>
+      <RequiredBandwidth>4</RequiredBandwidth>
+    </Component>
+    <Component>
+      <Name>Zone Chip</Name>
+      <ItemSubtype>ZoneChip</ItemSubtype>
+      <RequiredBandwidth>0</RequiredBandwidth>
+    </Component>
+  </DetectableComponents>
+</Configuration>

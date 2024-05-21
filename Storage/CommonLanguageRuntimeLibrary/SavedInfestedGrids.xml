@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfMyTupleOfInt64StringString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MyTupleOfInt64StringString>
+    <Item1>87345831586838426</Item1>
+    <Item2>LECC Hammer</Item2>
+    <Item3>LECC</Item3>
+  </MyTupleOfInt64StringString>
+</ArrayOfMyTupleOfInt64StringString>

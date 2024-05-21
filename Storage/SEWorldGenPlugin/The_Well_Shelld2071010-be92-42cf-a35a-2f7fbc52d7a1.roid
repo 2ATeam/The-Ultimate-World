@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16"?>
+<MyAsteroidSphereData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Center>
+    <X>0</X>
+    <Y>0</Y>
+    <Z>0</Z>
+  </Center>
+  <InnerRadius>1300000</InnerRadius>
+  <OuterRadius>1400000</OuterRadius>
+</MyAsteroidSphereData>

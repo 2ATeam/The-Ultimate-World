@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Configuration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>1.2.13.25</Version>
+  <Logging>false</Logging>
+  <GravityThreshold>1.15</GravityThreshold>
+  <DamageCurve>6</DamageCurve>
+  <DamageFrequency>1.07919</DamageFrequency>
+  <ProtectNpcs>true</ProtectNpcs>
+  <EnableImmunityNotification>true</EnableImmunityNotification>
+</Configuration>

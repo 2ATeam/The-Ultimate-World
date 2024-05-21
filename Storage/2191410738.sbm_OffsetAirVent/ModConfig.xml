@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-16"?>
+<OffsetAirVentConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <generalDamageMultiplier>1</generalDamageMultiplier>
+  <disassembleRatio>1</disassembleRatio>
+  <offsetAirVentComponents>
+    <ArrayOfString>
+      <string />
+      <string>SteelPlate=30</string>
+      <string>Construction=20</string>
+      <string>Motor=10</string>
+      <string>Computer=5=critical</string>
+      <string>SteelPlate=15</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>SmallAirVent</string>
+      <string>SteelPlate=5</string>
+      <string>Construction=10</string>
+      <string>Motor=2</string>
+      <string>Computer=5=critical</string>
+      <string>SteelPlate=3</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>AirVentOffset</string>
+      <string>SmallTube=10</string>
+      <string>InteriorPlate=10</string>
+      <string>SteelPlate=30</string>
+      <string>Construction=35</string>
+      <string>Motor=13</string>
+      <string>Computer=5=critical</string>
+      <string>SteelPlate=15</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>SmallAirVentOffset</string>
+      <string>SteelPlate=10</string>
+      <string>Construction=15</string>
+      <string>Motor=3</string>
+      <string>Computer=5=critical</string>
+      <string>SteelPlate=3</string>
+    </ArrayOfString>
+  </offsetAirVentComponents>
+</OffsetAirVentConfig>

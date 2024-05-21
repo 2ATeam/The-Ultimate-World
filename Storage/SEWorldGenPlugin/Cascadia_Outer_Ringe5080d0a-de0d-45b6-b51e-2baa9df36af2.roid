@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<MyAsteroidRingData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Radius>158742.609375</Radius>
+  <CenterPosition x="7040507.6220131936" y="-9896718.3185824435" z="-874844.62338909833" />
+  <Width>28290.10546875</Width>
+  <Height>3015.37841796875</Height>
+  <AngleDegrees x="-90" y="0" z="0" />
+</MyAsteroidRingData>

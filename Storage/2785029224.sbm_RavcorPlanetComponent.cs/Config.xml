@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LargeShipDamagePs>20000</LargeShipDamagePs>
+  <SmallShipDamagePs>1000</SmallShipDamagePs>
+  <PlayerDamagePs>50</PlayerDamagePs>
+  <DamageDistance>5</DamageDistance>
+</Config>

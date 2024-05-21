@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="utf-16"?>
+<MyObjectBuilder_SystemData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CenterObject>
+    <Type>EMPTY</Type>
+    <DisplayName>The Well</DisplayName>
+    <Id>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</Id>
+    <CenterPosition x="0" y="0" z="0" />
+    <ParentId>00000000-0000-0000-0000-000000000000</ParentId>
+    <ChildObjects>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Corum</DisplayName>
+        <Id>66bdbbcb-4395-48df-bdf2-e3494ea1ef35</Id>
+        <CenterPosition x="6494470.5992283281" y="10288262.832457989" z="2639047.297170579" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId>Pertam</SubtypeId>
+        <Diameter>20000</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-1849260815009322841</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Cascadia</DisplayName>
+        <Id>c1b8b9d3-8308-45fe-bf42-d3b4e20bc233</Id>
+        <CenterPosition x="7040507.6220131936" y="-9896718.3185824435" z="-874844.62338909833" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects>
+          <MySystemObject xsi:type="MySystemAsteroids">
+            <Type>ASTEROIDS</Type>
+            <DisplayName>Cascadia Inner Ring</DisplayName>
+            <Id>3e27d6c4-d36f-46ea-9488-dedd19293797</Id>
+            <CenterPosition x="7040507.6220131936" y="-9896718.3185824435" z="-874844.62338909833" />
+            <ParentId>c1b8b9d3-8308-45fe-bf42-d3b4e20bc233</ParentId>
+            <ChildObjects />
+            <AsteroidTypeName>AsteroidRing</AsteroidTypeName>
+            <AsteroidSize>
+              <Min>32</Min>
+              <Max>1024</Max>
+            </AsteroidSize>
+          </MySystemObject>
+          <MySystemObject xsi:type="MySystemAsteroids">
+            <Type>ASTEROIDS</Type>
+            <DisplayName>Cascadia Outer Ring</DisplayName>
+            <Id>e5080d0a-de0d-45b6-b51e-2baa9df36af2</Id>
+            <CenterPosition x="7040507.6220131936" y="-9896718.3185824435" z="-874844.62338909833" />
+            <ParentId>c1b8b9d3-8308-45fe-bf42-d3b4e20bc233</ParentId>
+            <ChildObjects />
+            <AsteroidTypeName>AsteroidRing</AsteroidTypeName>
+            <AsteroidSize>
+              <Min>32</Min>
+              <Max>1024</Max>
+            </AsteroidSize>
+          </MySystemObject>
+        </ChildObjects>
+        <SubtypeId>Cascadia</SubtypeId>
+        <Diameter>120000</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-8782371194866257818</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>TropezR4</DisplayName>
+        <Id>9ca47e90-9d25-4de3-9401-bc59f155fd7f</Id>
+        <CenterPosition x="10685963.682247926" y="1899274.9009495864" z="-1451080.3020104154" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>43680</Diameter>
+        <Generated>true</Generated>
+        <EntityId>1812329424573037739</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Tohil</DisplayName>
+        <Id>26361239-65f7-449e-aea0-b239c3fd3db1</Id>
+        <CenterPosition x="11374976.712617083" y="-771676.6470806927" z="823471.33571744873" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>19570</Diameter>
+        <Generated>true</Generated>
+        <EntityId>6581143759499694092</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Titan</DisplayName>
+        <Id>4514a639-294f-400b-b7e2-2b921c178d9c</Id>
+        <CenterPosition x="-815447.46342292835" y="-3789195.9762364291" z="235988.80385492003" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>19570</Diameter>
+        <Generated>true</Generated>
+        <EntityId>6621301291272023390</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Europa</DisplayName>
+        <Id>056dda48-9fab-41ab-bddc-5af163e14526</Id>
+        <CenterPosition x="-3867667.4545550053" y="-219986.73630740633" z="-865728.38210298819" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>20140</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-4496360116713695042</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Moon</DisplayName>
+        <Id>4ccbc36c-90fe-4c85-b061-f25a0f88fd79</Id>
+        <CenterPosition x="-2000938.7364106723" y="2654869.7699352363" z="-850244.618805583" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId>Pertam</SubtypeId>
+        <Diameter>20000</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-1562663852777478447</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Triton</DisplayName>
+        <Id>3a565df7-ed8c-4eae-a090-5e1b83975dae</Id>
+        <CenterPosition x="2276362.3867262942" y="2963712.4162372658" z="-325326.03591950808" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>96000</Diameter>
+        <Generated>true</Generated>
+        <EntityId>1834064087166442693</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Pertam</DisplayName>
+        <Id>6485928f-9a73-4323-a463-be67833e0b86</Id>
+        <CenterPosition x="2913999.6561855911" y="-2631880.51131412" z="350319.00016198156" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>61500</Diameter>
+        <Generated>true</Generated>
+        <EntityId>5368303179607619991</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Alien</DisplayName>
+        <Id>73265b48-8985-4f48-96ca-7519865539bc</Id>
+        <CenterPosition x="-718314.16588281433" y="-3689701.9864784433" z="627705.63714544673" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>134400</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-6972832802892138011</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Mars</DisplayName>
+        <Id>9a484b3c-1ec0-438f-97e9-1505938759a8</Id>
+        <CenterPosition x="-3765031.8857890056" y="89308.1733142068" z="-552881.22456601169" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId>Pertam</SubtypeId>
+        <Diameter>134000</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-3250010860198747290</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>SiriusR</DisplayName>
+        <Id>50c113df-2e8d-4d2d-a833-c1e9276e8268</Id>
+        <CenterPosition x="11871300.427587604" y="1485638.1226262408" z="-2232156.9499159218" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId>Pertam</SubtypeId>
+        <Diameter>36000</Diameter>
+        <Generated>true</Generated>
+        <EntityId>1445923560519207916</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Planet-Crait</DisplayName>
+        <Id>70bf8ec6-e7ec-4b28-bf3b-1dacb794e676</Id>
+        <CenterPosition x="6415064.2682750951" y="10434640.555396067" z="2914702.1479891278" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>123600</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-8094894915522917489</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Orlunda</DisplayName>
+        <Id>a4a0d5b5-80c5-48f6-bdb2-8701bfa8912c</Id>
+        <CenterPosition x="-6640149.0995630911" y="-9849221.8055457883" z="-3122766.7221619003" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>121200</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-6837262028950370343</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Satreus</DisplayName>
+        <Id>acbc4899-56ee-4501-9310-86af3d1f2bfc</Id>
+        <CenterPosition x="-12288097.401711598" y="1241234.9916644921" z="-2172333.1294412846" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>62400</Diameter>
+        <Generated>true</Generated>
+        <EntityId>2909383303729039153</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Irene1C</DisplayName>
+        <Id>58f891ff-2b2f-4d24-a656-198035c4a70b</Id>
+        <CenterPosition x="-7030781.2960763332" y="10325378.678722581" z="-2556718.1261879681" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>58240</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-9023913646043293373</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>ProtoPlaneta</DisplayName>
+        <Id>033fdfe3-eb61-443f-9060-b6568011118e</Id>
+        <CenterPosition x="3502221.7076916723" y="5926411.3677873006" z="98933.89781537521" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId>Pertam</SubtypeId>
+        <Diameter>20000</Diameter>
+        <Generated>true</Generated>
+        <EntityId>8640869765029219752</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Objeto 85</DisplayName>
+        <Id>afc2a8fc-5351-48c3-8a4a-fd4a348b5ca0</Id>
+        <CenterPosition x="-5623753.8488005921" y="-1625101.8008101454" z="-1290638.4759448771" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>23320</Diameter>
+        <Generated>true</Generated>
+        <EntityId>7391814174644040403</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Phrygia</DisplayName>
+        <Id>ce69d148-f6c9-4cb0-83de-ddf729a45954</Id>
+        <CenterPosition x="6416640.19509745" y="10375931.26215874" z="3138715.5476763528" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>21280</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-2071764236368080777</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Kimi</DisplayName>
+        <Id>67353940-cc45-4667-8ac9-5b204663fb6d</Id>
+        <CenterPosition x="-12158094.734434038" y="1282984.7740295569" z="-2176250.8953948612" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>19000</Diameter>
+        <Generated>true</Generated>
+        <EntityId>4273265784886315437</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Qun</DisplayName>
+        <Id>5bad6c68-ff5d-46de-9e96-40983f8a9e5f</Id>
+        <CenterPosition x="-12393934.905745178" y="1163413.9154523644" z="-2303554.2152743" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>23750</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-1325263086079703964</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Kaliper</DisplayName>
+        <Id>a2c5e1a0-516f-4d40-bd6c-7939af8fb7fe</Id>
+        <CenterPosition x="6747718.2917139689" y="-9818764.07501531" z="-966063.77686643833" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId>Pertam</SubtypeId>
+        <Diameter>21000</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-8051261196162510403</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Trelan</DisplayName>
+        <Id>84e8b745-9a6a-4f92-90f3-91c6131ee316</Id>
+        <CenterPosition x="6969548.9296125323" y="-9710395.88392165" z="-756140.08392299619" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>28212.5</Diameter>
+        <Generated>true</Generated>
+        <EntityId>6895519849766175397</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Tomor</DisplayName>
+        <Id>32539df4-f58b-4bf5-94c7-dd9d9036852a</Id>
+        <CenterPosition x="-11880835.408967353" y="15912506.556866203" z="1768425.2030128108" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>51500</Diameter>
+        <Generated>true</Generated>
+        <EntityId>1824643847523353685</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Sar</DisplayName>
+        <Id>68d12f72-43fd-4b14-9558-8b46a76f4f1c</Id>
+        <CenterPosition x="-11232882.432554314" y="15671079.053475531" z="2279342.4526510728" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>87550</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-8204974565271121731</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Dund</DisplayName>
+        <Id>b04d21d3-1ad5-435f-88f6-1b99c545f7db</Id>
+        <CenterPosition x="-10752239.396406375" y="17013860.7993466" z="2976206.0915743564" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>39140</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-4355295159435854029</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Bek</DisplayName>
+        <Id>bcfb0e40-fed9-4724-91f4-c8e4cf541fd1</Id>
+        <CenterPosition x="-11107788.73329494" y="16986187.628520589" z="2948911.570520794" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>19570</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-6477631492658154696</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Crystalia</DisplayName>
+        <Id>d26309fb-b8a9-49c2-877b-ce995a25febf</Id>
+        <CenterPosition x="13487361.822997602" y="-14712426.239069341" z="2009671.1619843221" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>21280</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-4450282661374083635</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Silona</DisplayName>
+        <Id>69ebe07a-6a00-4b4f-82f4-2e70b34ad51e</Id>
+        <CenterPosition x="20403439.372350238" y="1349012.5672506869" z="1285465.7812081911" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>25750</Diameter>
+        <Generated>true</Generated>
+        <EntityId>6623930446121440599</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Spilskinanke</DisplayName>
+        <Id>10926dbf-e254-4e2e-9a5f-4df6cd7fdc05</Id>
+        <CenterPosition x="9556820.9988960326" y="18035578.441783044" z="4147770.0861728643" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects>
+          <MySystemObject xsi:type="MySystemAsteroids">
+            <Type>ASTEROIDS</Type>
+            <DisplayName>Spilskinanke Ring</DisplayName>
+            <Id>4eb9dd36-6e55-4b6c-b436-af318a5544a6</Id>
+            <CenterPosition x="9556820.9988960326" y="18035578.441783044" z="4147770.0861728643" />
+            <ParentId>10926dbf-e254-4e2e-9a5f-4df6cd7fdc05</ParentId>
+            <ChildObjects />
+            <AsteroidTypeName>AsteroidRing</AsteroidTypeName>
+            <AsteroidSize>
+              <Min>232</Min>
+              <Max>622</Max>
+            </AsteroidSize>
+          </MySystemObject>
+        </ChildObjects>
+        <SubtypeId>Pertam</SubtypeId>
+        <Diameter>124000</Diameter>
+        <Generated>true</Generated>
+        <EntityId>1037472198078251954</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Avarga</DisplayName>
+        <Id>598cb1b7-673f-4f97-ae5b-b6c73a6588a1</Id>
+        <CenterPosition x="-10527286.738471715" y="17376539.729808804" z="2226547.9753640569" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId>Pertam</SubtypeId>
+        <Diameter>618000</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-4009311549854057938</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Sedonia</DisplayName>
+        <Id>b7070c72-26fb-4362-9d4b-de4086613abf</Id>
+        <CenterPosition x="-18907802.104646355" y="5757820.1491861856" z="-3748905.7445673267" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>21280</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-3742477906260049284</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Segovia</DisplayName>
+        <Id>bd5539a4-bb88-4cbd-8010-65625b07c121</Id>
+        <CenterPosition x="-18891312.301025502" y="5592179.77536065" z="-3654131.1945061837" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>103040</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-5953774526509281223</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Erebus</DisplayName>
+        <Id>3533f181-7a63-499c-a2be-ffc244325369</Id>
+        <CenterPosition x="-17562876.351131123" y="-10139924.45082549" z="2217036.9402777087" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>123600</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-5394614063389950119</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Avernus</DisplayName>
+        <Id>7b40adff-7622-4b22-a5bf-11144b472387</Id>
+        <CenterPosition x="-4876543.8190937554" y="-19743918.802299678" z="485681.29446646204" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>127200</Diameter>
+        <Generated>true</Generated>
+        <EntityId>7175203484585452764</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>HaleE2</DisplayName>
+        <Id>eff5a4a1-75a8-4471-aac4-58521445598b</Id>
+        <CenterPosition x="13811574.925848741" y="-14668067.948694974" z="1955726.5340050566" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>134400</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-7858345271753416142</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Alglo</DisplayName>
+        <Id>cff479fa-7ad6-4cb3-9746-6039b01fdade</Id>
+        <CenterPosition x="9455354.9811120667" y="18030283.054711789" z="4368106.8251919178" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>19570</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-7841132566229567747</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemAsteroids">
+        <Type>ASTEROIDS</Type>
+        <DisplayName>Earth Cluster</DisplayName>
+        <Id>bb448e8f-580c-4246-b871-18a813de86de</Id>
+        <CenterPosition x="0" y="0" z="0" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <AsteroidTypeName>AsteroidRing</AsteroidTypeName>
+        <AsteroidSize>
+          <Min>32</Min>
+          <Max>1024</Max>
+        </AsteroidSize>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemAsteroids">
+        <Type>ASTEROIDS</Type>
+        <DisplayName>Seren Cluster</DisplayName>
+        <Id>19cf87c9-f5b6-439a-a2d0-64d1f09e99af</Id>
+        <CenterPosition x="0" y="0" z="0" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <AsteroidTypeName>AsteroidRing</AsteroidTypeName>
+        <AsteroidSize>
+          <Min>32</Min>
+          <Max>1024</Max>
+        </AsteroidSize>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemAsteroids">
+        <Type>ASTEROIDS</Type>
+        <DisplayName>Avarga Cluster</DisplayName>
+        <Id>25d28693-ea3e-407f-9f8e-6fd4f6b6d019</Id>
+        <CenterPosition x="0" y="0" z="0" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <AsteroidTypeName>AsteroidRing</AsteroidTypeName>
+        <AsteroidSize>
+          <Min>790</Min>
+          <Max>1024</Max>
+        </AsteroidSize>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemAsteroids">
+        <Type>ASTEROIDS</Type>
+        <DisplayName>The Keeper Cluster</DisplayName>
+        <Id>83e58a6d-9e96-410f-bc50-6b174dc5166e</Id>
+        <CenterPosition x="0" y="0" z="0" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <AsteroidTypeName>AsteroidRing</AsteroidTypeName>
+        <AsteroidSize>
+          <Min>32</Min>
+          <Max>1024</Max>
+        </AsteroidSize>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemAsteroids">
+        <Type>ASTEROIDS</Type>
+        <DisplayName>The Well Shell</DisplayName>
+        <Id>d2071010-be92-42cf-a35a-2f7fbc52d7a1</Id>
+        <CenterPosition x="0" y="0" z="0" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <AsteroidTypeName>AsteroidHollowSphere</AsteroidTypeName>
+        <AsteroidSize>
+          <Min>32</Min>
+          <Max>1024</Max>
+        </AsteroidSize>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemAsteroids">
+        <Type>ASTEROIDS</Type>
+        <DisplayName>The Well Core</DisplayName>
+        <Id>06c57bdc-5024-4a30-8fb5-9478e9eec1c6</Id>
+        <CenterPosition x="0" y="0" z="0" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <AsteroidTypeName>AsteroidCluster</AsteroidTypeName>
+        <AsteroidSize>
+          <Min>32</Min>
+          <Max>1024</Max>
+        </AsteroidSize>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Seren</DisplayName>
+        <Id>6af884a9-79e3-45db-becd-962152b7486e</Id>
+        <CenterPosition x="12517382.188318035" y="1313613.2546740174" z="207673.25364414073" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId>Seren</SubtypeId>
+        <Diameter>1000000</Diameter>
+        <Generated>true</Generated>
+        <EntityId>1706008222381616808</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Pyke</DisplayName>
+        <Id>d059c83b-b971-449e-b29f-2bd1c72fb7b9</Id>
+        <CenterPosition x="13753659.204039155" y="2924852.9630690608" z="152604.48317388695" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId>Pyke</SubtypeId>
+        <Diameter>120000</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-7733373804635777234</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Saprimentas</DisplayName>
+        <Id>d2229069-294e-4062-8686-481450bcb578</Id>
+        <CenterPosition x="20403456.899923269" y="1484652.5014408154" z="1149669.5113549507" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId>Saprimentas</SubtypeId>
+        <Diameter>80000</Diameter>
+        <Generated>true</Generated>
+        <EntityId>2451216242338764230</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Halcyon</DisplayName>
+        <Id>a871fde8-c23f-41d2-bc64-680ad1713967</Id>
+        <CenterPosition x="6425849.2759951595" y="10770053.106045576" z="2752306.0562851755" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId>Halcyon</SubtypeId>
+        <Diameter>50000</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-69761564324259597</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Aulden</DisplayName>
+        <Id>7deccc01-2cd2-4678-8de1-7dde8e82c9e9</Id>
+        <CenterPosition x="-4610560.4826550893" y="-19516898.725830983" z="645961.45237824891" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId>Aulden</SubtypeId>
+        <Diameter>40000</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-1679213505353313633</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>EarthLike</DisplayName>
+        <Id>cd503681-a7bd-4583-86d2-4aae393fcae3</Id>
+        <CenterPosition x="-1920337.7443221146" y="2640596.686210651" z="-491648.58185295458" />
+        <ParentId>33f6dd48-272b-4bc2-ac53-3c8a81bdf577</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>134400</Diameter>
+        <Generated>true</Generated>
+        <EntityId>3474964940162177606</EntityId>
+      </MySystemObject>
+    </ChildObjects>
+  </CenterObject>
+</MyObjectBuilder_SystemData>

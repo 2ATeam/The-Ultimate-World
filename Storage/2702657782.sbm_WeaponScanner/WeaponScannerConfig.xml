@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Configuration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>2.0.37.58</Version>
+  <Logging>false</Logging>
+  <UseWeaponCore>false</UseWeaponCore>
+  <MinimumRange>0.2</MinimumRange>
+  <MaximumRange>2</MaximumRange>
+  <BeamWidth>0</BeamWidth>
+  <MinimumDetectionProbability>0.7</MinimumDetectionProbability>
+  <MaximumDetectionprobability>0.99</MaximumDetectionprobability>
+  <MinimumGridSize>0</MinimumGridSize>
+  <NormalPowerUsage>3.5</NormalPowerUsage>
+  <WorkPowerUsage>35</WorkPowerUsage>
+  <WorkDuration>3</WorkDuration>
+  <CooldownDuration>5</CooldownDuration>
+  <DetectUnpoweredWeapons>false</DetectUnpoweredWeapons>
+  <EnableBroadcastPingOnScan>false</EnableBroadcastPingOnScan>
+  <EnableSmallGridScanning>false</EnableSmallGridScanning>
+  <BroadcastFactor>0</BroadcastFactor>
+  <DetectableGridPhysics>Both</DetectableGridPhysics>
+  <DetectableItems>
+    <Weapon>
+      <Name>Warfare Rocket Launcher</Name>
+      <ItemType>SmallMissileLauncher</ItemType>
+      <ItemSubtype>SmallMissileLauncherWarfare2</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Warfare Gatling Gun</Name>
+      <ItemType>SmallGatlingGun</ItemType>
+      <ItemSubtype>SmallGatlingGunWarfare2</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Gatling Turret</Name>
+      <ItemType>LargeGatlingTurret</ItemType>
+      <ItemSubtype />
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Gatling Turret</Name>
+      <ItemType>LargeGatlingTurret</ItemType>
+      <ItemSubtype>SmallGatlingTurret</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Rocket Turret</Name>
+      <ItemType>LargeMissileTurret</ItemType>
+      <ItemSubtype />
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Rocket Turret</Name>
+      <ItemType>LargeMissileTurret</ItemType>
+      <ItemSubtype>SmallMissileTurret</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Interior Turret</Name>
+      <ItemType>InteriorTurret</ItemType>
+      <ItemSubtype>LargeInteriorTurret</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Rocket Launcher</Name>
+      <ItemType>SmallMissileLauncher</ItemType>
+      <ItemSubtype />
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Rocket Launcher</Name>
+      <ItemType>SmallMissileLauncher</ItemType>
+      <ItemSubtype>LargeMissileLauncher</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Reloadable Rocket Launcher</Name>
+      <ItemType>SmallMissileLauncherReload</ItemType>
+      <ItemSubtype>SmallRocketLauncherReload</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Gatling Gun</Name>
+      <ItemType>SmallGatlingGun</ItemType>
+      <ItemSubtype />
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Autocannon</Name>
+      <ItemType>SmallGatlingGun</ItemType>
+      <ItemSubtype>SmallBlockAutocannon</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Assault Cannon</Name>
+      <ItemType>SmallMissileLauncherReload</ItemType>
+      <ItemSubtype>SmallBlockMediumCalibreGun</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Artillery</Name>
+      <ItemType>SmallMissileLauncher</ItemType>
+      <ItemSubtype>LargeBlockLargeCalibreGun</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Railgun</Name>
+      <ItemType>SmallMissileLauncherReload</ItemType>
+      <ItemSubtype>LargeRailgun</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Railgun</Name>
+      <ItemType>SmallMissileLauncherReload</ItemType>
+      <ItemSubtype>SmallRailgun</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Artillery Turret</Name>
+      <ItemType>LargeMissileTurret</ItemType>
+      <ItemSubtype>LargeCalibreTurret</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Assault Cannon Turret</Name>
+      <ItemType>LargeMissileTurret</ItemType>
+      <ItemSubtype>LargeBlockMediumCalibreTurret</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Assault Cannon Turret</Name>
+      <ItemType>LargeMissileTurret</ItemType>
+      <ItemSubtype>SmallBlockMediumCalibreTurret</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Autocannon Turret</Name>
+      <ItemType>LargeGatlingTurret</ItemType>
+      <ItemSubtype>AutoCannonTurret</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Firework Launcher</Name>
+      <ItemType>SmallMissileLauncher</ItemType>
+      <ItemSubtype>LargeFlareLauncher</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Firework Launcher</Name>
+      <ItemType>SmallMissileLauncher</ItemType>
+      <ItemSubtype>SmallFlareLauncher</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Corruption Rocket Launcher Sniper</Name>
+      <ItemType>SmallMissileLauncher</ItemType>
+      <ItemSubtype>Corruption-SmallMissileLauncher-Sniper</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Corruption Rocket Launcher Barrage</Name>
+      <ItemType>SmallMissileLauncher</ItemType>
+      <ItemSubtype>Corruption-SmallMissileLauncher-Barrage</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Corruption Scatter Cannon</Name>
+      <ItemType>SmallGatlingGun</ItemType>
+      <ItemSubtype>Corruption-SmallScatterCannon</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Corruption Large Scatter-Cannon Turret</Name>
+      <ItemType>LargeGatlingTurret</ItemType>
+      <ItemSubtype>CorruptionLargeScatterCannonTurret</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Torpedo Launcher</Name>
+      <ItemType>SmallMissileLauncher</ItemType>
+      <ItemSubtype>ElindisTorpedoLauncher</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Torpedo Turret</Name>
+      <ItemType>LargeMissileTurret</ItemType>
+      <ItemSubtype>ElindisTorpedoTurret</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Hailstorm Turret</Name>
+      <ItemType>LargeMissileTurret</ItemType>
+      <ItemSubtype>ElindisHailstormTurret</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Coilgun Turret</Name>
+      <ItemType>LargeMissileTurret</ItemType>
+      <ItemSubtype>ElindisGaussTurret</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Nuclear Missile Launcher</Name>
+      <ItemType>SmallMissileLauncher</ItemType>
+      <ItemSubtype>LargeMissileLauncher_Nuclear</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Nuclear Missile Launcher</Name>
+      <ItemType>SmallMissileLauncherReload</ItemType>
+      <ItemSubtype>SmallRocketLauncherReload_Nuclear</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+    <Weapon>
+      <Name>Npc Interior Turret</Name>
+      <ItemType>InteriorTurret</ItemType>
+      <ItemSubtype>NpcLargeInteriorTurret</ItemSubtype>
+      <DetectionModifier>1</DetectionModifier>
+    </Weapon>
+  </DetectableItems>
+  <BlacklistGrids>
+    <Name>Large Grid</Name>
+    <Name>Small Grid</Name>
+    <Name>Static Grid</Name>
+  </BlacklistGrids>
+  <BlacklistFactions>
+    <FactionTag>PRAVDA</FactionTag>
+  </BlacklistFactions>
+</Configuration>
